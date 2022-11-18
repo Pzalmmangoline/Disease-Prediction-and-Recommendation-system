@@ -1,5 +1,5 @@
 # Disease-Prediction-and-Recommendation-system
-A disease prediction system based on patients symptoms with a home remedy recommendation solution.
+A disease prediction system based on patients symptoms with a home remedy recommendation solution, using a WebApplication created with FLASK.
 
 The following algorithms have been explored in code:
 
